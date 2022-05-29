@@ -5,7 +5,7 @@ import copy
 import uuid
 import datetime
 
-filename = 'day1/my_database.txt'
+filename = 'my_database.txt'
 current_login_user = {}
 
 
